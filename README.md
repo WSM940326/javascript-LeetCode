@@ -6,7 +6,7 @@ LeetCode 经典题目汇总 ( javascript实现 )
 
 ### LeetCode: [https://leetcode.com/WSM1234/](https://leetcode.com/WSM1234/)
 
-[![Alt text](https://leetcode.com/WSM1234/)
+(https://leetcode.com/WSM1234/)
 
 ### 常用数据结构实现
 
